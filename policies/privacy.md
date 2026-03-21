@@ -1,6 +1,7 @@
 # Privacy Policy\n\n**
 Effective date: 2025-01-01**\n\n## 
-Data We Collect\nobol stores the following data **locally on your device only**:\n- 
+Data We Collect\n
+obol stores the following data **locally on your device only**:\n- 
 Your risk profile questionnaire answers\n- 
 Paper portfolio holdings you add manually\n- 
 AI chat history (advisor tab)\n- 
