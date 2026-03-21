@@ -1,5 +1,6 @@
 # Privacy Policy\n\n**
 Effective date: 2025-01-01**\n\n## 
+
 Data We Collect\n
 obol stores the following data **locally on your device only**:\n- 
 Your risk profile questionnaire answers\n- 
