@@ -1,1 +1,12 @@
-# Terms of Service\n\n**Effective date: 2025-01-01**\n\nBy using obol you agree to these terms.\n\n## 1. Educational Use Only\nobol is provided for educational and informational purposes only. Nothing in this app constitutes financial advice, investment advice, or a recommendation to buy or sell any security.\n\n## 2. No Financial Advice\nAll content including AI-generated analysis, predictions, and recommendations is for informational purposes only. You should consult a qualified financial advisor before making any investment decisions.\n\n## 3. Data & Privacy\nAll personal data is stored locally on your device. We do not sell or share your personal information. API keys you enter are transmitted only to the respective AI provider.\n\n## 4. Limitation of Liability\nTo the maximum extent permitted by law, obol and its developers accept no liability for investment losses, data inaccuracies, or any damages arising from use of this app.\n\n## 5. Third-Party Services\nThis app uses third-party AI services (Anthropic, Groq, Google, OpenAI). Your use is also subject to their respective terms of service.\n\n## 6. Changes to Terms\nWe may update these terms from time to time. Continued use of the app after changes constitutes acceptance.\n\n## 7. Contact\nFor questions contact: pricethepig2002@duck.com
+# Terms of Service\n\n
+
+**Effective date: 2025-01-01**\n\n
+By using obol you agree to these terms.\n\n## 
+
+1. Educational Use Only\nobol is provided for educational and informational purposes only. Nothing in this app constitutes financial advice, investment advice, or a recommendation to buy or sell any security.\n\n##
+2. No Financial Advice\nAll content including AI-generated analysis, predictions, and recommendations is for informational purposes only. You should consult a qualified financial advisor before making any investment decisions.\n\n##
+3. Data & Privacy\nAll personal data is stored locally on your device. We do not sell or share your personal information. API keys you enter are transmitted only to the respective AI provider.\n\n##
+4. Limitation of Liability\nTo the maximum extent permitted by law, obol and its developers accept no liability for investment losses, data inaccuracies, or any damages arising from use of this app.\n\n##
+5. Third-Party Services\nThis app uses third-party AI services (Anthropic, Groq, Google, OpenAI). Your use is also subject to their respective terms of service.\n\n##
+6. Changes to Terms\nWe may update these terms from time to time. Continued use of the app after changes constitutes acceptance.\n\n##
+7. Contact\nFor questions contact: pricethepig2002@duck.com
