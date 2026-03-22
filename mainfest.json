@@ -1,0 +1,18 @@
+{
+  "short_name": "obol",
+  "name": "obol: AI Stock Advisor",
+  "description": "Mobile AI stock advisor and learning platform.",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/obol-mapp/obol-mapp.github.io/main/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0A0C12",
+  "background_color": "#0A0C12",
+  "orientation": "portrait"
+}
