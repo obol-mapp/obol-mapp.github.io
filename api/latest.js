@@ -3,7 +3,7 @@ export default function handler(req, res) {
   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
   if (req.method === 'OPTIONS') return res.status(200).end();
   res.status(200).json({
-    version: "20260322211429",
+    version: "20260322211615",
     url: "https://obol-mapp-github-io.vercel.app/bundle.zip",
     checksum: ""
   });
